@@ -1,0 +1,79 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a simple pricing card component with a title, price, list of features, and a CTA button
+            - img [ref=e57]
+          - generic [ref=e60]:
+            - img [ref=e63]
+            - generic [ref=e68]:
+              - generic [ref=e71]: Creating App.jsx
+              - separator [ref=e72]
+              - generic [ref=e73]:
+                - paragraph [ref=e74]: "Done! I've created a pricing card component with:"
+                - list [ref=e75]:
+                  - listitem [ref=e76]:
+                    - strong [ref=e77]: Title & description
+                    - text: at the top
+                  - listitem [ref=e78]:
+                    - strong [ref=e79]: Price display
+                    - text: with period indicator
+                  - listitem [ref=e80]:
+                    - strong [ref=e81]: Feature list
+                    - text: with check icons (using lucide-react)
+                  - listitem [ref=e82]:
+                    - strong [ref=e83]: CTA button
+                    - text: with hover effects and gradient styling
+                  - listitem [ref=e84]:
+                    - strong [ref=e85]: Glassmorphism design
+                    - text: with backdrop blur and semi-transparent background
+                  - listitem [ref=e86]:
+                    - strong [ref=e87]: Dark theme
+                    - text: with purple accents and smooth transitions
+                - paragraph [ref=e88]: The card is fully responsive and includes hover states for interactive feedback.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e89]:
+        - generic [ref=f5e5]:
+          - generic [ref=f5e6]:
+            - heading "Professional" [level=2] [ref=f5e7]
+            - paragraph [ref=f5e8]: Perfect for growing teams
+          - generic [ref=f5e10]:
+            - generic [ref=f5e11]: $29
+            - generic [ref=f5e12]: /month
+          - generic [ref=f5e13]:
+            - generic [ref=f5e14]:
+              - img [ref=f5e15]
+              - generic [ref=f5e17]: Up to 50 projects
+            - generic [ref=f5e18]:
+              - img [ref=f5e19]
+              - generic [ref=f5e21]: Advanced analytics
+            - generic [ref=f5e22]:
+              - img [ref=f5e23]
+              - generic [ref=f5e25]: Priority support
+            - generic [ref=f5e26]:
+              - img [ref=f5e27]
+              - generic [ref=f5e29]: Custom integrations
+            - generic [ref=f5e30]:
+              - img [ref=f5e31]
+              - generic [ref=f5e33]: Team collaboration tools
+            - generic [ref=f5e34]:
+              - img [ref=f5e35]
+              - generic [ref=f5e37]: API access
+          - button "Get Started" [ref=f5e38] [cursor=pointer]
+          - paragraph [ref=f5e39]: No credit card required. Cancel anytime.
+  - alert [ref=e50]
