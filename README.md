@@ -1,6 +1,8 @@
 # UIGen
 
-AI-powered React component generator with live preview.
+UIGen is an AI-powered React component generator that lets you build UI components through a conversational chat interface. Simply describe the component you want, and Claude AI will generate it instantly — complete with a live preview rendered in a sandboxed iframe. No files are ever written to disk; everything runs in an in-memory virtual file system, making iteration fast and effortless.
+
+Whether you're prototyping a new design, exploring UI ideas, or learning React, UIGen accelerates your workflow by turning natural language descriptions into production-ready components with Tailwind CSS styling.
 
 ## Prerequisites
 
